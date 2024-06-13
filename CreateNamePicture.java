@@ -19,7 +19,7 @@ public class CreateNamePicture {
      * @throws
      **/
     public static void main(String[] args) throws IOException {
-        String name = "刘言曌爱罗琪";
+        String name = "张三丰";
         generateImg(name, "/Users/liuyanzhao/Desktop/temp", name);
     }
 
